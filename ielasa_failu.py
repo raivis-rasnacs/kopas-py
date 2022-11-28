@@ -7,7 +7,7 @@ def ielasa_failu(faila_nosaukums: str) -> list:
 
     vertibas = []
 
-    with open(faila_nosaukums, "r") as fails:
+    with open(f"testu_kopas/{faila_nosaukums}", "r") as fails:
 
         pass
         # TODO: cikliski ieraksta sarakstā visas SKAITLISKĀS vērtības no faila
