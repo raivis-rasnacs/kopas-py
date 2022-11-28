@@ -10,5 +10,11 @@ Programma sastāv no galvenā izpildfaila *kopas.py* un 3 moduļiem:<br>
 
 Papildini funkcijas *ielasa_failu()* un *aprekins()*
 
+### Testpiemēri:
+|Fails|Rezultāts|
+|---|---|
+|kopas_0.txt|263.39|
+|kopas_1.txt|267.56|
+
 Komentārā norādi uzvārdu un klasi!
 
